@@ -20,18 +20,26 @@ Here are some ideas to get you started:
 Из опыта могу представить только [образовательные проекты](https://github.com/ishunkinsa/yandex_practicum_DA).<br>
 Но есть огромное желание учиться и открывать для себя что-то новое.
 
-### Пройденные курсы
+---
+#### Пройденные курсы
+
 Яндекс практикум. Аналитик данных. [Сертификат](https://github.com/ishunkinsa/ishunkinsa/blob/main/%D0%98%D0%A1A_20232DA00751.pdf)<br>
 Stepik.Интерактивный тренажер по SQL. [Сертификат](https://github.com/ishunkinsa/ishunkinsa/blob/main/%D0%98%D0%A1%D0%90-stepik-certificate.pdf)<br>
 Нетология. Введение в SQL и работу с базой данных.<br>
-### Data Analyst: 
+
+---
+#### Data Analyst: 
 Python, Pandas, Numpy, Matplotlib, SciPy,
 
-### Databases: 
+---
+
+#### Databases: 
 PostgreSQL, MySQL 
 
-### Для связи:
 ---
+
+#### Для связи:
+
 e-mail: ishunkin.sa@yamdex.ru<br>
 Telegramm: https://t.me/teacher463<br>
 Leetcode: https://leetcode.com/ishunkin_sa<br>
