@@ -26,7 +26,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy,
 ###### Databases: 
 PostgreSQL, MySQL 
 
-### Connect with me:
+### Для связи:
 ---
 e-mail: ishunkin.sa@yamdex.ru
 
