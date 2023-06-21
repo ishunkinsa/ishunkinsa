@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 #### Пройденные курсы
 Яндекс практикум. Аналитик данных. [Сертификат](https://github.com/ishunkinsa/ishunkinsa/blob/main/%D0%98%D0%A1A_20232DA00751.pdf)
+
 Нетология. Введение в SQL и работу с базой данных.
 ###### Data Analyst: 
 Python, Pandas, Numpy, Matplotlib, SciPy,
