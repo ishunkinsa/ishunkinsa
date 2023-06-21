@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет Всем! 👋
 
 <!--
 **ishunkinsa/ishunkinsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sergey Ishunkin.
-I'm a Data Analyst.
+Меня зовут Ишунькин Сергей.
+Я проработал 13 лет в школе и сейчас осваиваю новую профессию Data Analyst.
 
-I worked for 13 years at school and now I am learning a new profession Data Analyst.
-
-From experience, I can only present [educational projects](https://github.com/ishunkinsa/yandex_practicum_DA). But there is a great desire to learn and discover something new.
+Из опыта могу представить только [образовательные проекты](https://github.com/ishunkinsa/yandex_practicum_DA). Но есть огромное желание учиться и открывать для себя что-то новое.
 
 ###### Data Analyst: 
 Python, Pandas, Numpy, Matplotlib, SciPy,
