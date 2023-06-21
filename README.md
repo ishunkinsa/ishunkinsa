@@ -20,7 +20,7 @@ I'm a Data Analyst.
 
 I worked for 13 years at school and now I am learning a new profession Data Analyst.
 
-From experience, I can only present educational projects. But there is a great desire to learn and discover something new.
+From experience, I can only present [educational projects](https://github.com/ishunkinsa/yandex_practicum_DA). But there is a great desire to learn and discover something new.
 
 ###### Data Analyst: 
 Python, Pandas, Numpy, Matplotlib, SciPy,
