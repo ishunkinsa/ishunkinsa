@@ -35,6 +35,7 @@ PostgreSQL, MySQL Ы
 ---
 e-mail: ishunkin.sa@yamdex.ru
 
+![image](https://github.com/ishunkinsa/ishunkinsa/assets/128365862/7abc65e0-b964-42e9-802c-22737ec2524c)
 Telegramm: https://t.me/teacher463
 
 Leetcode: https://leetcode.com/ishunkin_sa/
