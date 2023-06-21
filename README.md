@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 Из опыта могу представить только [образовательные проекты](https://github.com/ishunkinsa/yandex_practicum_DA). Но есть огромное желание учиться и открывать для себя что-то новое.
 
 #### Пройденные курсы
-Яндекс практикум. Аналитик данных. [Сертификат]()
+Яндекс практикум. Аналитик данных. [Сертификат](https://github.com/ishunkinsa/ishunkinsa/blob/main/%D0%98%D0%A1A_20232DA00751.pdf)
+Нетология. Введение в SQL и работу с базой данных.
 ###### Data Analyst: 
 Python, Pandas, Numpy, Matplotlib, SciPy,
 
